@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Alex!
 - 👀 I’m interested in software development/blockchain/UX development.
-- 🌱 I’m currently learning 'Frontend Development'
 - 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/alexandru-bojog-33766a130/
 
 <!---
